@@ -1,10 +1,9 @@
-# MeriSkill_HR_Analytics
-
 Title of the project : “HR Analytics"
 
 
 Tasks to perform:
 Data Cleaning:
+
 Deleting redundant columns.
 Renaming the columns.
 Dropping duplicates.
