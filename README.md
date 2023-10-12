@@ -38,9 +38,6 @@ In this project, we conducted a comprehensive data exploration and analysis to u
 
 ![image](https://github.com/harshk2320/MeriSkill_HR_Analytics/assets/139095684/fa84c09a-fa02-4af5-8c61-5a91980fe70d)
 
-* **Data Visualization:** To visualize the data, we created various plots and charts using libraries like Matplotlib and Seaborn. Our visualizations included: Box Plots: to explore data distributions and identify outliers.
-
-
 
 ## Technologies Used
 
